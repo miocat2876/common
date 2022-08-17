@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>common</groupId>
+  <artifactId>mailServer</artifactId>
+  <versioning>
+    <lastUpdated>20220817050659</lastUpdated>
+    <snapshot>
+      <timestamp>20220817.050659</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>war</extension>
+        <value>0.0.1-20220817.050659-1</value>
+        <updated>20220817050659</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.0.1-20220817.050659-1</value>
+        <updated>20220817050659</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+  <version>0.0.1-SNAPSHOT</version>
+</metadata>
